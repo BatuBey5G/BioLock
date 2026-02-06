@@ -1,0 +1,11 @@
+Package: com.batues.biolock
+Name: BioLock Enhanced
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Advanced app locker with Face ID/Touch ID support. Features include: customizable authentication prompts, authentication caching, passcode fallback option, haptic feedback, and more. Fully free and open source.
+Homepage: https://github.com/BatuBey5G/BioLock
+Maintainer: Batu <batu@example.com>
+Author: Batu <batu@example.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Icon: file:///Library/PreferenceBundles/biolockprefs.bundle/BioLock@2x.png
